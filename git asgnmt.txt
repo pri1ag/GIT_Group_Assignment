@@ -1,0 +1,12 @@
+3) Explanation of Stash command :-  As I am working in a organization under a project so my colleague has written a code and he said to see me and when I have seen the code I just modified it and after I gave him so when again he is going through that code he is facing problem so I just hidden the code by using the stash command and after making him understand then I have applied it by using the stash apply command. It also allow to switch the branches without committing the current branch. Git saves our data safely without committing.
+
+4) Importance of writing a good commit message are as follows :
+
+i) If we are working in an organization on very large projects where many developers are involved in that case we have to write a good commit message for the better collaboration.
+ii) We need to write a clear and understandable commit message so that after some days if any other developers want to know that what I have done so he will came to know by seeing the commit message.
+iii) It will be benefit for them also to write a good commit message who is writing because if you are working on a large projects which will take so many years to complete and after few years you are reviewing the code so you can easily understand what you have done by seeing the commit message.
+iv) The primary importance of the commit message is its usefulness for someone in the future.
+v) It is also important to speed up the reviewing process.
+vi) Committing with messages helps us to look behind the different version and know what changes did we make.
+
+5) git pull means we are updating our file which are on our local system from the remote repository. When we use git pull it means we are running the command git fetch + merge. git pull does working of both the command , whereas, git fetch only downloads the new data from the remote repository but it does not integrate any of this new data with our working files.
