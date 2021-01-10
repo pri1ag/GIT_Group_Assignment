@@ -10,3 +10,8 @@ v) It is also important to speed up the reviewing process.
 vi) Committing with messages helps us to look behind the different version and know what changes did we make.
 
 5) git pull means we are updating our file which are on our local system from the remote repository. When we use git pull it means we are running the command git fetch + merge. git pull does working of both the command , whereas, git fetch only downloads the new data from the remote repository but it does not integrate any of this new data with our working files.
+
+
+
+
+anbcdshgdyuswgiurdfuwg
